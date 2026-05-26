@@ -1,2 +1,2 @@
 # TSANAL-Home
-A main dashboard page featuring community projects and featured content.
+The main home page for TSANAL, which has community-made projects and other content.
