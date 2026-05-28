@@ -3,7 +3,7 @@ These guidelines define exactly how you should handle interacting with projects,
 Please read ***the entire document*** to understand everything about moderation.
 
 ## I am a TSANAL user, not moderator
-Please see the [Uploading Guidelines](https://penguinmod.com/guidelines/uploading), you ***will only receive update notifications for the Uploading Guidelines***, not the moderator guidelines.
+Please see the [Uploading Guidelines](https://tsanal.com/guidelines/uploading), you ***will only receive update notifications for the Uploading Guidelines***, not the moderator guidelines.
 This document will not serve much of a purpose to non-moderators and will refer to many moderator-only aspects of the website, meaning you cannot do most of the things listed.
 
 ## Our expectations
